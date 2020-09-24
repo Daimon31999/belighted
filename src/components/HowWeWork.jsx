@@ -19,7 +19,7 @@ export default function HowWeWork() {
           <h2 className="m-auto text-5xl mb-10 font-bold ">How we work</h2>
           <p style={{
             color: "#a4abae"
-          }} className="text-2xl mb-16 text-center font-light px-48">Belighted's signature to deliver next-gen software, faster? <br />
+          }} className="text-2xl mb-16 text-center font-light px-48">Belighteds signature to deliver next-gen software, faster? <br />
 Our 4-stage process to build meaningful digital experiences.</p>
           <div className="flex flex-row">
             <ImageCard image={howWeWork1} style="border-l-2 " titleOne="Strategy Workshop" footerOne="Product Roadmap" footerTwo="1 DAY" titleTwo="1. Challenge your idea" text="Let’s discuss your value proposition, target market and business model and come up together with a product plan you need to achieve your goals." >
