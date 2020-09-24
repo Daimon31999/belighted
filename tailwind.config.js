@@ -1,7 +1,8 @@
 module.exports = {
-  purge: [
-    './src/components/*.jsx'
-  ],
+  purge: {
+    enabled: true,
+    content: ['./src/**/*.jsx'],
+  },
   theme: {
     fontSize: {
       'xs': '.75rem',
